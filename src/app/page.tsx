@@ -26,7 +26,7 @@ export default function Home() {
               <span className="page_topLeft__teS_m">
                 WA businesses feel confident about future growth
               </span>
-              <span className="page_topRight__F61OY">AI can't replace creativity</span>
+              <span className="page_topRight__F61OY">AI cant replace creativity</span>
               <span className="page_middleLeft__N_DHU">Sales measure true success</span>
               <span className="page_middleRight__ii__n">Human connection drives WA business</span>
               <span className="page_bottomLeft__f7V1K">
